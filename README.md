@@ -1,2 +1,2 @@
-# gymfitness_widgets_WP
+# gymfitness widgets
 Widgets  diseñado para el tema gymfitness
